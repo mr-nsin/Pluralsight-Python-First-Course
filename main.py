@@ -1,4 +1,7 @@
 import hs_student
 
-james = hs_student.HighSchoolStudent("james")
-print (james.get_name_capitalize())
+student_name = input ("Enter Student Name : ")
+student_id = input ("Enter Student ID : ")
+
+high_school_student = hs_student.HighSchoolStudent(student_name)
+print (high_school_student.get_name_capitalize())
