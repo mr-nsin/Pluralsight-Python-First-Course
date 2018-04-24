@@ -33,3 +33,4 @@
 13. pip - python package manager, npm for Node, Nuget for .Net.
 14. PyPI - python package Index, website contains all the details of python packages available.
 15. PyInstaller - python package that converts your python code to executable. (use commnand = pyinstaller --onefile fileName)
+16. Inno Setup - used for creating a setup wizard application on windows.s
