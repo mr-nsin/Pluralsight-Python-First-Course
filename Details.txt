@@ -1,0 +1,34 @@
+1. python --version (python -v)//command to check the version of python installed on machine.
+
+2. typing "python" in command prompt will open python interpreter where you can write basic one line commands and can see the result at same time.(The prompt >>> on the last line indicates that you are now in an interactive Python interpeter session, also called the “Python shell”. This is different from the normal terminal command prompt!). To leave the interactive shell either press Ctrl + Z and hit enter or type exit().
+
+3. To upgrade pip use command = "python -m pip install --upgrade pip"
+
+4. IPython - Interactive command line terminal built with python. IPython offers an enhanced read-eval-print loop (REPL) environment particularly well adapted to scientific computing.
+	IPython provides a rich toolkit to help you make the most out of using Python, with:
+		- Powerful Python shells (terminal and Qt-based).
+		- A web-based notebook with the same core features but support for code, text, mathematical expressions, inline plots and other rich media.
+		- Support for interactive data visualization and use of GUI toolkits.
+		- Flexible, embeddable interpreters to load into your own projects.
+		- Easy to use, high performance tools for parallel computing.
+
+5. Jupyter NoteBook - the Notebook offers a modern and powerful web interface to Python.
+		Compared to the original IPython terminal, the Notebook offers a more convenient text editor, the possibility to write rich text, and improved graphical capabilities. Also, since it is a web interface, it can integrate many of the existing web libraries for data visualization, including plotly.js.
+
+6. IDLE - Python's Integrated Development and Learning Environment
+	- coded in 100% pure Python, using the tkinter GUI toolkit
+	- cross-platform: works mostly the same on Windows, Unix, and Mac OS X
+	- Python shell window (interactive interpreter) with colorizing of code input, output, and error messages
+	- multi-window text editor with multiple undo, Python colorizing, smart indent, call tips, auto completion, and other features
+	- search within any window, replace within editor windows, and search through multiple files (grep)
+	- debugger with persistent breakpoints, stepping, and viewing of global and local namespaces
+	  configuration, browsers, and other dialogs
+
+7. Tuples - similar to lists but cann't change the value ex - (1,2,4,"Nitin").
+8. Sets and FrozenSets - similar to list but have unique objects.
+9. Pickle is third party library used to store dictionary data into file.
+10. FLASK - python web micro-framework.
+11. DJANGO - python most popular web framework.
+12. Web Frameworks - CherryPy, web2py, Tornado, Flask.
+13. pip - python package manager, npm for Node, Nuget for .Net.
+14. PyPI - python package Index, website contains all the details of python packages available.
